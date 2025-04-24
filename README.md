@@ -1,6 +1,8 @@
 # grymse-blog
 
-This template should help get you started developing with Vue 3 in Vite.
+This project attempts to replicate the beautiful work done by [Gautham Shankar](https://ingau.me/), who teaches [How to write blogs in Obsidian and instantly publish them to his blog](https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly)
+
+The remaining of the ReadMe is still the Vue 3 introduction. Given my upcoming work, where I need to write in Vue, I have started this project using exactly that. This goes against the principle of choosing the right tool for the right job, but this minimizes the onboarding experience of having to learn both the organizations structure, work-ways and frameworks simultaneously.
 
 ## Recommended IDE Setup
 
